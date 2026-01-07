@@ -10,6 +10,8 @@
 // @run-at       document-start
 // @grant        GM_setClipboard
 // @grant        GM_addStyle
+// @downloadURL https://github.com/ZhangSanMo/IYF-List/raw/refs/heads/main/iyf-list.user.js
+// @updateURL https://github.com/ZhangSanMo/IYF-List/raw/refs/heads/main/iyf-list.user.js
 // @allFrames    true
 // ==/UserScript==
 
@@ -232,3 +234,4 @@
     setInterval(checkUrlAndToggleUI, 2000);
 
 })();
+
